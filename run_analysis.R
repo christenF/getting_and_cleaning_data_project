@@ -44,3 +44,5 @@ data_avg <- data_mean%>%
     gather(measurement, value, -subject, -activity)%>%
     group_by(subject, activity, measurement)%>%
     summarize(average = mean(value))
+
+write.table(data_avg, "tidy_data_set.txt", row.names = F)
