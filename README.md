@@ -47,5 +47,3 @@ data_avg <- data_mean%>%
     group_by(subject, activity, measurement)%>%
     summarize(average = mean(value))
 ```
-
-The tidy data set is available as tidy_data_set.csv
