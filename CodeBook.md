@@ -62,6 +62,3 @@ To make the data set more understandable, the activities were labelled (as provi
 
 ### average of all measurements
 Finally the data were gathered to calculate the mean for all measurements per variable, subject and activity.
-
-### data set
-The tidy data are available as: "tidy_data_set.csv"
