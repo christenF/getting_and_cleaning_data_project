@@ -1,6 +1,3 @@
----
-output: html_document
----
 ## CodeBook
 
 ### The initial data used for this project was described as follows:

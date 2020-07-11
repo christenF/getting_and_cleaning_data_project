@@ -1,6 +1,3 @@
----
-output: html_document
----
 # getting_and_cleaning_data_project
 
 Run_analysis.R was used to summarize the activity data provided by the UCI.
