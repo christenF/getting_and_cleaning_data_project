@@ -41,7 +41,7 @@ data_set%>%
 
 Activity labels were added as factors.
 
-Finally, a tidy data set was created, averaging als measurements.
+Finally, a tidy data set was created, averaging als measurements by subject and activity.
 
 ```r
 library(tidyr)
